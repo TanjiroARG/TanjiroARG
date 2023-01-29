@@ -78,10 +78,10 @@ Si quieres comunicarte conmigo sobre cualquier cosa, ya sea por alguna duda o si
 </br>
 </a>
 <a href="https://www.reddit.com/user/">
-  <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/TanjiroAR/TanjiroARG/blob/main/assets/icons/reddit.png" />
+  <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/TanjiroARG/TanjiroARG/blob/main/assets/icons/reddit.png" />
 </a>
 <a href="https://steamcommunity.com/profiles/">
-  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/TanjiroAR/TanjiroAR/blob/main/assets/icons/steam.png" />
+  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/TanjiroARG/TanjiroARG/blob/main/assets/icons/steam.png" />
 </a>
  </p>
  
